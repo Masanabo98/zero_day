@@ -1,2 +1,1 @@
-**My Reademe file**
-#Zero Day
+**Strong** __Strong__
